@@ -1,0 +1,15 @@
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_HW\C_Sharp_HW7\Exer_50\obj\Debug\net6.0\Exer_50.csproj.AssemblyReference.cache
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_HW\C_Sharp_HW7\Exer_50\obj\Debug\net6.0\Exer_50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_HW\C_Sharp_HW7\Exer_50\obj\Debug\net6.0\Exer_50.AssemblyInfoInputs.cache
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_HW\C_Sharp_HW7\Exer_50\obj\Debug\net6.0\Exer_50.AssemblyInfo.cs
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_HW\C_Sharp_HW7\Exer_50\obj\Debug\net6.0\Exer_50.csproj.CoreCompileInputs.cache
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_HW\C_Sharp_HW7\Exer_50\bin\Debug\net6.0\Exer_50.exe
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_HW\C_Sharp_HW7\Exer_50\bin\Debug\net6.0\Exer_50.deps.json
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_HW\C_Sharp_HW7\Exer_50\bin\Debug\net6.0\Exer_50.runtimeconfig.json
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_HW\C_Sharp_HW7\Exer_50\bin\Debug\net6.0\Exer_50.dll
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_HW\C_Sharp_HW7\Exer_50\bin\Debug\net6.0\Exer_50.pdb
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_HW\C_Sharp_HW7\Exer_50\obj\Debug\net6.0\Exer_50.dll
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_HW\C_Sharp_HW7\Exer_50\obj\Debug\net6.0\refint\Exer_50.dll
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_HW\C_Sharp_HW7\Exer_50\obj\Debug\net6.0\Exer_50.pdb
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_HW\C_Sharp_HW7\Exer_50\obj\Debug\net6.0\Exer_50.genruntimeconfig.cache
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_HW\C_Sharp_HW7\Exer_50\obj\Debug\net6.0\ref\Exer_50.dll
