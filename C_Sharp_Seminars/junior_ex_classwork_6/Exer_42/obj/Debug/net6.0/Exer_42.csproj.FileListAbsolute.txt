@@ -1,0 +1,15 @@
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_Seminars\junior_ex_classwork_6\Exer_42\obj\Debug\net6.0\Exer_42.csproj.AssemblyReference.cache
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_Seminars\junior_ex_classwork_6\Exer_42\obj\Debug\net6.0\Exer_42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_Seminars\junior_ex_classwork_6\Exer_42\obj\Debug\net6.0\Exer_42.AssemblyInfoInputs.cache
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_Seminars\junior_ex_classwork_6\Exer_42\obj\Debug\net6.0\Exer_42.AssemblyInfo.cs
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_Seminars\junior_ex_classwork_6\Exer_42\obj\Debug\net6.0\Exer_42.csproj.CoreCompileInputs.cache
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_Seminars\junior_ex_classwork_6\Exer_42\bin\Debug\net6.0\Exer_42.exe
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_Seminars\junior_ex_classwork_6\Exer_42\bin\Debug\net6.0\Exer_42.deps.json
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_Seminars\junior_ex_classwork_6\Exer_42\bin\Debug\net6.0\Exer_42.runtimeconfig.json
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_Seminars\junior_ex_classwork_6\Exer_42\bin\Debug\net6.0\Exer_42.dll
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_Seminars\junior_ex_classwork_6\Exer_42\bin\Debug\net6.0\Exer_42.pdb
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_Seminars\junior_ex_classwork_6\Exer_42\obj\Debug\net6.0\Exer_42.dll
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_Seminars\junior_ex_classwork_6\Exer_42\obj\Debug\net6.0\refint\Exer_42.dll
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_Seminars\junior_ex_classwork_6\Exer_42\obj\Debug\net6.0\Exer_42.pdb
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_Seminars\junior_ex_classwork_6\Exer_42\obj\Debug\net6.0\Exer_42.genruntimeconfig.cache
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_Seminars\junior_ex_classwork_6\Exer_42\obj\Debug\net6.0\ref\Exer_42.dll

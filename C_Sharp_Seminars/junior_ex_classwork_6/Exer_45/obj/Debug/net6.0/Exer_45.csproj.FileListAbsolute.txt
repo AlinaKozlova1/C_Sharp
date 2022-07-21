@@ -1,0 +1,15 @@
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_Seminars\junior_ex_classwork_6\Exer_45\bin\Debug\net6.0\Exer_45.exe
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_Seminars\junior_ex_classwork_6\Exer_45\bin\Debug\net6.0\Exer_45.deps.json
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_Seminars\junior_ex_classwork_6\Exer_45\bin\Debug\net6.0\Exer_45.runtimeconfig.json
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_Seminars\junior_ex_classwork_6\Exer_45\bin\Debug\net6.0\Exer_45.dll
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_Seminars\junior_ex_classwork_6\Exer_45\bin\Debug\net6.0\Exer_45.pdb
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_Seminars\junior_ex_classwork_6\Exer_45\obj\Debug\net6.0\Exer_45.csproj.AssemblyReference.cache
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_Seminars\junior_ex_classwork_6\Exer_45\obj\Debug\net6.0\Exer_45.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_Seminars\junior_ex_classwork_6\Exer_45\obj\Debug\net6.0\Exer_45.AssemblyInfoInputs.cache
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_Seminars\junior_ex_classwork_6\Exer_45\obj\Debug\net6.0\Exer_45.AssemblyInfo.cs
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_Seminars\junior_ex_classwork_6\Exer_45\obj\Debug\net6.0\Exer_45.csproj.CoreCompileInputs.cache
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_Seminars\junior_ex_classwork_6\Exer_45\obj\Debug\net6.0\Exer_45.dll
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_Seminars\junior_ex_classwork_6\Exer_45\obj\Debug\net6.0\refint\Exer_45.dll
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_Seminars\junior_ex_classwork_6\Exer_45\obj\Debug\net6.0\Exer_45.pdb
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_Seminars\junior_ex_classwork_6\Exer_45\obj\Debug\net6.0\Exer_45.genruntimeconfig.cache
+C:\Users\Алина\Desktop\C_Sharp\C_Sharp_Seminars\junior_ex_classwork_6\Exer_45\obj\Debug\net6.0\ref\Exer_45.dll

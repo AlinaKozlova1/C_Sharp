@@ -1,0 +1,15 @@
+C:\Users\Алина\Desktop\c_sharp_practice\Lesson_2\MetodArray\obj\Debug\net6.0\MetodArray.csproj.AssemblyReference.cache
+C:\Users\Алина\Desktop\c_sharp_practice\Lesson_2\MetodArray\obj\Debug\net6.0\MetodArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алина\Desktop\c_sharp_practice\Lesson_2\MetodArray\obj\Debug\net6.0\MetodArray.AssemblyInfoInputs.cache
+C:\Users\Алина\Desktop\c_sharp_practice\Lesson_2\MetodArray\obj\Debug\net6.0\MetodArray.AssemblyInfo.cs
+C:\Users\Алина\Desktop\c_sharp_practice\Lesson_2\MetodArray\obj\Debug\net6.0\MetodArray.csproj.CoreCompileInputs.cache
+C:\Users\Алина\Desktop\c_sharp_practice\Lesson_2\MetodArray\bin\Debug\net6.0\MetodArray.exe
+C:\Users\Алина\Desktop\c_sharp_practice\Lesson_2\MetodArray\bin\Debug\net6.0\MetodArray.deps.json
+C:\Users\Алина\Desktop\c_sharp_practice\Lesson_2\MetodArray\bin\Debug\net6.0\MetodArray.runtimeconfig.json
+C:\Users\Алина\Desktop\c_sharp_practice\Lesson_2\MetodArray\bin\Debug\net6.0\MetodArray.dll
+C:\Users\Алина\Desktop\c_sharp_practice\Lesson_2\MetodArray\bin\Debug\net6.0\MetodArray.pdb
+C:\Users\Алина\Desktop\c_sharp_practice\Lesson_2\MetodArray\obj\Debug\net6.0\MetodArray.dll
+C:\Users\Алина\Desktop\c_sharp_practice\Lesson_2\MetodArray\obj\Debug\net6.0\refint\MetodArray.dll
+C:\Users\Алина\Desktop\c_sharp_practice\Lesson_2\MetodArray\obj\Debug\net6.0\MetodArray.pdb
+C:\Users\Алина\Desktop\c_sharp_practice\Lesson_2\MetodArray\obj\Debug\net6.0\MetodArray.genruntimeconfig.cache
+C:\Users\Алина\Desktop\c_sharp_practice\Lesson_2\MetodArray\obj\Debug\net6.0\ref\MetodArray.dll

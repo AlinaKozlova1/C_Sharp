@@ -1,0 +1,15 @@
+C:\Users\Алина\Desktop\C_Sharp_4_Lecture\Picture\obj\Debug\net6.0\Picture.csproj.AssemblyReference.cache
+C:\Users\Алина\Desktop\C_Sharp_4_Lecture\Picture\obj\Debug\net6.0\Picture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алина\Desktop\C_Sharp_4_Lecture\Picture\obj\Debug\net6.0\Picture.AssemblyInfoInputs.cache
+C:\Users\Алина\Desktop\C_Sharp_4_Lecture\Picture\obj\Debug\net6.0\Picture.AssemblyInfo.cs
+C:\Users\Алина\Desktop\C_Sharp_4_Lecture\Picture\obj\Debug\net6.0\Picture.csproj.CoreCompileInputs.cache
+C:\Users\Алина\Desktop\C_Sharp_4_Lecture\Picture\bin\Debug\net6.0\Picture.exe
+C:\Users\Алина\Desktop\C_Sharp_4_Lecture\Picture\bin\Debug\net6.0\Picture.deps.json
+C:\Users\Алина\Desktop\C_Sharp_4_Lecture\Picture\bin\Debug\net6.0\Picture.runtimeconfig.json
+C:\Users\Алина\Desktop\C_Sharp_4_Lecture\Picture\bin\Debug\net6.0\Picture.dll
+C:\Users\Алина\Desktop\C_Sharp_4_Lecture\Picture\bin\Debug\net6.0\Picture.pdb
+C:\Users\Алина\Desktop\C_Sharp_4_Lecture\Picture\obj\Debug\net6.0\Picture.dll
+C:\Users\Алина\Desktop\C_Sharp_4_Lecture\Picture\obj\Debug\net6.0\refint\Picture.dll
+C:\Users\Алина\Desktop\C_Sharp_4_Lecture\Picture\obj\Debug\net6.0\Picture.pdb
+C:\Users\Алина\Desktop\C_Sharp_4_Lecture\Picture\obj\Debug\net6.0\Picture.genruntimeconfig.cache
+C:\Users\Алина\Desktop\C_Sharp_4_Lecture\Picture\obj\Debug\net6.0\ref\Picture.dll

@@ -1,0 +1,15 @@
+C:\Users\Алина\Desktop\C_Sharp_4_Lecture\Two_dementional_array\bin\Debug\net6.0\Two_dementional_array.exe
+C:\Users\Алина\Desktop\C_Sharp_4_Lecture\Two_dementional_array\bin\Debug\net6.0\Two_dementional_array.deps.json
+C:\Users\Алина\Desktop\C_Sharp_4_Lecture\Two_dementional_array\bin\Debug\net6.0\Two_dementional_array.runtimeconfig.json
+C:\Users\Алина\Desktop\C_Sharp_4_Lecture\Two_dementional_array\bin\Debug\net6.0\Two_dementional_array.dll
+C:\Users\Алина\Desktop\C_Sharp_4_Lecture\Two_dementional_array\bin\Debug\net6.0\Two_dementional_array.pdb
+C:\Users\Алина\Desktop\C_Sharp_4_Lecture\Two_dementional_array\obj\Debug\net6.0\Two_dementional_array.csproj.AssemblyReference.cache
+C:\Users\Алина\Desktop\C_Sharp_4_Lecture\Two_dementional_array\obj\Debug\net6.0\Two_dementional_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алина\Desktop\C_Sharp_4_Lecture\Two_dementional_array\obj\Debug\net6.0\Two_dementional_array.AssemblyInfoInputs.cache
+C:\Users\Алина\Desktop\C_Sharp_4_Lecture\Two_dementional_array\obj\Debug\net6.0\Two_dementional_array.AssemblyInfo.cs
+C:\Users\Алина\Desktop\C_Sharp_4_Lecture\Two_dementional_array\obj\Debug\net6.0\Two_dementional_array.csproj.CoreCompileInputs.cache
+C:\Users\Алина\Desktop\C_Sharp_4_Lecture\Two_dementional_array\obj\Debug\net6.0\Two_dementional_array.dll
+C:\Users\Алина\Desktop\C_Sharp_4_Lecture\Two_dementional_array\obj\Debug\net6.0\refint\Two_dementional_array.dll
+C:\Users\Алина\Desktop\C_Sharp_4_Lecture\Two_dementional_array\obj\Debug\net6.0\Two_dementional_array.pdb
+C:\Users\Алина\Desktop\C_Sharp_4_Lecture\Two_dementional_array\obj\Debug\net6.0\Two_dementional_array.genruntimeconfig.cache
+C:\Users\Алина\Desktop\C_Sharp_4_Lecture\Two_dementional_array\obj\Debug\net6.0\ref\Two_dementional_array.dll

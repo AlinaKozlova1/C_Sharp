@@ -1,0 +1,15 @@
+C:\Users\Алина\Desktop\c_sharp_practice\Lesson_2\ArrayLibrary\obj\Debug\net6.0\ArrayLibrary.csproj.AssemblyReference.cache
+C:\Users\Алина\Desktop\c_sharp_practice\Lesson_2\ArrayLibrary\obj\Debug\net6.0\ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алина\Desktop\c_sharp_practice\Lesson_2\ArrayLibrary\obj\Debug\net6.0\ArrayLibrary.AssemblyInfoInputs.cache
+C:\Users\Алина\Desktop\c_sharp_practice\Lesson_2\ArrayLibrary\obj\Debug\net6.0\ArrayLibrary.AssemblyInfo.cs
+C:\Users\Алина\Desktop\c_sharp_practice\Lesson_2\ArrayLibrary\obj\Debug\net6.0\ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Алина\Desktop\c_sharp_practice\Lesson_2\ArrayLibrary\bin\Debug\net6.0\ArrayLibrary.exe
+C:\Users\Алина\Desktop\c_sharp_practice\Lesson_2\ArrayLibrary\bin\Debug\net6.0\ArrayLibrary.deps.json
+C:\Users\Алина\Desktop\c_sharp_practice\Lesson_2\ArrayLibrary\bin\Debug\net6.0\ArrayLibrary.runtimeconfig.json
+C:\Users\Алина\Desktop\c_sharp_practice\Lesson_2\ArrayLibrary\bin\Debug\net6.0\ArrayLibrary.dll
+C:\Users\Алина\Desktop\c_sharp_practice\Lesson_2\ArrayLibrary\bin\Debug\net6.0\ArrayLibrary.pdb
+C:\Users\Алина\Desktop\c_sharp_practice\Lesson_2\ArrayLibrary\obj\Debug\net6.0\ArrayLibrary.dll
+C:\Users\Алина\Desktop\c_sharp_practice\Lesson_2\ArrayLibrary\obj\Debug\net6.0\refint\ArrayLibrary.dll
+C:\Users\Алина\Desktop\c_sharp_practice\Lesson_2\ArrayLibrary\obj\Debug\net6.0\ArrayLibrary.pdb
+C:\Users\Алина\Desktop\c_sharp_practice\Lesson_2\ArrayLibrary\obj\Debug\net6.0\ArrayLibrary.genruntimeconfig.cache
+C:\Users\Алина\Desktop\c_sharp_practice\Lesson_2\ArrayLibrary\obj\Debug\net6.0\ref\ArrayLibrary.dll
