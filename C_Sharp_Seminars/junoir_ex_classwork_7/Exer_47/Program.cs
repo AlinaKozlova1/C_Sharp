@@ -8,8 +8,9 @@ for (int i = 0; i < M; i++)
 {
     for (int j = 0; j < N; j++)
     {
-        array[i,j] = new Random().Next(-100, 100);
+        array[i,j] = i + j;
         Console.Write(array[i,j] + " ");
     }
     Console.WriteLine();
 }
+
